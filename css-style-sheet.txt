@@ -1,0 +1,47 @@
+/*The following has been created for all 5 web pages*/
+
+h1{
+	font-family: sandre Bell MT Times New Roman;
+
+head{
+	color:#bbbbbb;
+	text-align:center;
+	font-family: sandre Bell MT Times New Roman;
+}
+
+header{
+	
+}
+
+section{
+  font-size: 12px;
+  font-family: sandre Bell MT Times New Roman;
+  background: #FFFFFF;
+
+}
+
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: #FFFFFF;
+  font-family: sandre Bell MT Times New Roman;
+  margin-top:5px
+}
+
+
+.p {
+  color: #000000;
+  font-family: sandre Bell MT Times New Roman;
+  font-size: 18px;
+  margin:10px
+}
+
+.footer {
+position:center
+  width: 1000px;
+  height: 30px;
+  background-color: #FBEA7E;
+  border-radius: 8px;
+  margin: auto;
+}
+
